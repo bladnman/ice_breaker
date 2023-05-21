@@ -3,21 +3,20 @@ from langchain.chat_models import ChatOpenAI
 
 from langchain.agents import initialize_agent, Tool, AgentType
 
-from tools.tools import get_profile_url_serp, get_profile_url_google
-from langchain.tools.file_management import ReadFileTool
+from tools.tools import get_profile_url_serp
 
 
 def lookup(name: str) -> str:
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
-    template = """given the full name {name_of_person} I want you to get it me a link to their Linkedin profile page.
-                          Your answer should contain only a URL"""
+    template = """given the full name {name_of_person} I want you to get it me a link to their 
+    twitter profile page and extract from there the 
+    Twitter username. Your answer should contain the person's username"""
 
     tools_for_agent = [
         Tool(
-            name="Crawl Google 4 linkedin profile page",
+            name="Crawl Google for Twitter profile page url",
             func=get_profile_url_serp,
-            # func=get_profile_url_google,
-            description="useful for when you need get the Linkedin Page URL",
+            description="Useful for when you need get the Twitter profile page URL",
         )
     ]
 
@@ -31,7 +30,6 @@ def lookup(name: str) -> str:
         template=template, input_variables=["name_of_person"]
     )
 
-    linked_profile_url = agent.run(
+    return agent.run(
         prompt_template.format_prompt(name_of_person=name)
     )
-    return linked_profile_url

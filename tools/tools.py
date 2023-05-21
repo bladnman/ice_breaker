@@ -1,4 +1,5 @@
 from langchain.utilities import SerpAPIWrapper
+from langchain.utilities import GoogleSearchAPIWrapper
 
 
 class CustomSerpAPIWrapper(SerpAPIWrapper):
@@ -12,21 +13,22 @@ class CustomSerpAPIWrapper(SerpAPIWrapper):
             raise ValueError(f"Got error from SerpAPI: {res['error']}")
         if "answer_box" in res.keys() and "answer" in res["answer_box"].keys():
             toret = res["answer_box"]["answer"]
-        elif "answer_box" in res.keys() and "snippet" in res["answer_box"].keys():
+        elif "answer_box" in res.keys() and "snippet" in res[
+            "answer_box"].keys():
             toret = res["answer_box"]["snippet"]
         elif (
-            "answer_box" in res.keys()
-            and "snippet_highlighted_words" in res["answer_box"].keys()
+                "answer_box" in res.keys()
+                and "snippet_highlighted_words" in res["answer_box"].keys()
         ):
             toret = res["answer_box"]["snippet_highlighted_words"][0]
         elif (
-            "sports_results" in res.keys()
-            and "game_spotlight" in res["sports_results"].keys()
+                "sports_results" in res.keys()
+                and "game_spotlight" in res["sports_results"].keys()
         ):
             toret = res["sports_results"]["game_spotlight"]
         elif (
-            "knowledge_graph" in res.keys()
-            and "description" in res["knowledge_graph"].keys()
+                "knowledge_graph" in res.keys()
+                and "description" in res["knowledge_graph"].keys()
         ):
             toret = res["knowledge_graph"]["description"]
         elif "snippet" in res["organic_results"][0].keys():
@@ -37,8 +39,15 @@ class CustomSerpAPIWrapper(SerpAPIWrapper):
         return toret
 
 
-def get_profile_url(name: str):
-    """Searches for Linkedin or twitter Profile Page."""
+def get_profile_url_serp(name: str):
+    """Searches for Linkedin or twitter Profile Page using serp tool."""
     search = CustomSerpAPIWrapper()
+    res = search.run(f"{name}")
+    return res
+
+
+def get_profile_url_google(name: str):
+    """Searches for Linkedin or twitter Profile Page using google tool."""
+    search = GoogleSearchAPIWrapper()
     res = search.run(f"{name}")
     return res

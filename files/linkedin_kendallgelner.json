@@ -1,0 +1,328 @@
+{
+  "public_identifier": "kendallgelner",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/kendallgelner/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230521%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230521T193106Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e36b4b5f868ccb71138854ff0c9632408c0d09c5fe99e4700c5f3562a251553c",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/kendallgelner/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230521%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230521T193106Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5374df2e23d5fd151a6c1d5c53e0cc526c1a1b45bac3286505a29ca3461740a2",
+  "first_name": "Kendall",
+  "last_name": "Gelner",
+  "full_name": "Kendall Gelner",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Broomfield",
+  "state": "Colorado",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": "None",
+      "company": "Nami Ml",
+      "company_linkedin_profile_url": "None",
+      "title": "Ios Sdk Architect",
+      "description": "Involved in various aspects of client side SDK and application development.",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Pushio",
+      "company_linkedin_profile_url": "None",
+      "title": "Consulting Software Engineer",
+      "description": "* Develop and maintain IOS and OSX related code, for in-house applications and externally distributed frameworks/applications.\n* Manage iOS/OSX build process.\n* Second tier client development support.",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": "None",
+      "company": "Kigi Software",
+      "company_linkedin_profile_url": "None",
+      "title": "President",
+      "description": "President of KiGi Software, iOS consumer application development and corporate consulting. Speaker at a variety of mobile and iOS conferences, including Macworld Hong Kong, and 360iDev.",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1996
+      },
+      "ends_at": "None",
+      "company": "Kigi Photo",
+      "company_linkedin_profile_url": "None",
+      "title": "Photographer",
+      "description": "None",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1998
+      },
+      "company": "Information Graphics Systems",
+      "company_linkedin_profile_url": "None",
+      "title": "Software Engineer",
+      "description": "Worked on a variety of projects, including an AutoCAD based geocoding system written in C++, and also Java based desktop geocoding system.",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2017
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "company": "Martiancraft, Llc",
+      "company_linkedin_profile_url": "linkedin.com/company/martiancraft-llc",
+      "title": "Consulting Ios Engineer",
+      "description": "General IOS iPhone/iPad development, UI and UX work. A remote position that Involves frequent client communication, development of new features, and maintenance of a family of existing IOS applications.",
+      "location": "Fairfax, Virginia, United States",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/martiancraft-llc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230521%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230521T193106Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=877b73542a37706526fb8cb2721b952f919d0d14a14635ce9eec77a8810c7ad2"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2012
+      },
+      "company": "Double Encore",
+      "company_linkedin_profile_url": "linkedin.com/company/double-encore",
+      "title": "Consulting Software Engineer",
+      "description": "* Worked on a variety of projects as an IOS developer / architect.\n* Designed and created frameworks for internal use.\n* Assisted with build processes.\n* Worked directly with some clients.",
+      "location": "Denver, Colorado, United States",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1999
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "company": "Level 3 Communications",
+      "company_linkedin_profile_url": "linkedin.com/company/level-3-communications",
+      "title": "Software Architect",
+      "description": "* Development of:\n* External customer portal applications\n* Internal portal applications\n* Application Security education and analysis",
+      "location": "Broomfield, Colorado, United States",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/level-3-communications/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230521%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230521T193106Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=599aa1222fe9342879d1e19319c16d0714985882f3b985bf9809577673af3720"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelors, Bachelor of Arts",
+      "school": "Rice University",
+      "school_linkedin_profile_url": "linkedin.com/school/riceuniversity",
+      "description": "None",
+      "logo_url": "None",
+      "grade": "None",
+      "activities_and_societies": "None"
+    }
+  ],
+  "accomplishment_patents": [
+    {
+      "title": "Order entry system for telecommunications network service",
+      "issuer": "USPTO",
+      "issued_on": {
+        "day": 10,
+        "month": 5,
+        "year": 2011
+      },
+      "description": "An order entry system communicates with the customer over a user interface and works with an automated installation system for installing network service. The order entry system prompts the customer to place a new service order. The service parameters of the new service order are passed to the installation system. The order entry system notifies the customer of the route and prompts the customer to add a service order for the route to the customer order. If the customer adds the service order to the customer order, the order entry system prompts the customer to reserve the service order or to submit an order for the service. If the customer reserves or submits an order for the service, the order entry system request the installation system to design an actual communication line circuit to satisfy the order.",
+      "application_number": "07941514",
+      "patent_number": "07941514",
+      "url": "http://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=7941514"
+    }
+  ],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2015
+      },
+      "title": "Volunteer Coordinator",
+      "cause": "Education",
+      "company": "AltConf",
+      "company_linkedin_profile_url": "None",
+      "description": "Volunteer coordinator for AltConf, a free technology conference covering Mac and iOS development.\n\nAn unpaid position, I recruited volunteers, managed schedules, and assisted with a variety of other duties for the conference like crowd planning, technical setup, and crisis planning.",
+      "logo_url": "None"
+    }
+  ],
+  "connections": 276,
+  "activities": [
+    {
+      "title": "After a total of over 22 years with the company, today was my last day at Apple. I'm looking forward to the next chapter, in which I focus on family…",
+      "link": "https://www.linkedin.com/posts/wileyhodges_after-a-total-of-over-22-years-with-the-company-activity-6991953743999119360-zaee",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Our mobile paywall gallery now has well over 200 examples. Some are good, and some need... a bit of improvement.For examples from non-Nami…",
+      "link": "https://www.linkedin.com/posts/namiml_225-paywall-examples-best-paywall-screen-activity-6989062947331330048-TDRS",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "This is a business networking site right??   So, Hi, nice to meet everyone here -- I'd like everyone in my network to know that my 14 year old son is…",
+      "link": "https://www.linkedin.com/posts/bsullins_spinitfaster-etsy-activity-6992165523564240896-5g0J",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Super proud to have worked on this which can save lives!#apple #iphone14",
+      "link": "https://www.linkedin.com/posts/hardikjoshi9_apple-iphone14-activity-6976307675097690112-xKyf",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Rice has risen to No. 15 among the nation’s top universities ranked in the 2023 edition of U.S. News & World Report’s “Best Colleges”…",
+      "link": "https://www.linkedin.com/posts/riceuniversity_rice-rises-to-no-15-in-us-news-rankings-activity-6976292817153261568-Z9kh",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "How do Apple Pay and Google Pay handle sensitive card info?The diagram below shows the differences. Both approaches are very secure, but the…",
+      "link": "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6978379172934991873-V96J",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "App Store Optimization: What Every App Developer Should Know https://ed.gr/drwh8",
+      "link": "https://www.linkedin.com/posts/namiml_app-store-optimization-what-every-app-developer-activity-6967860514110529537-d9wV",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "This weekend I was fortunate enough to sit on my favorite ridge at 13k and gaze upon the vastness of our universe.   Life is short so take the time…",
+      "link": "https://www.linkedin.com/posts/leonard-madrid_worklifebalance-optoutside-mountains-activity-6969851814733131776-Sg5o",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "This month our airport honored a groundbreaking Texan to celebrate the anniversary of her earning a pilot's license with a flight entirely run by…",
+      "link": "https://www.linkedin.com/posts/lesliebenhamilton_empowering-women-in-the-skies-activity-6968937467253071873-SAp4",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "3 Reasons to Grow Reader Revenue with Mobile Apps https://ed.gr/dxx62",
+      "link": "https://www.linkedin.com/posts/namiml_3-reasons-to-grow-reader-revenue-with-mobile-activity-6965323804982071296-xBML",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Three-wheeler to propeller-plane that goes 200 mph on premium gas from the corner station has received its airworthiness certificate and enters final…",
+      "link": "https://www.linkedin.com/posts/lesliebenhamilton_aircar-flying-car-cleared-for-takeoff-activity-6967593272093421569-koVs",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Today while climbing Kelso Ridge I ran into a party that was going up a class 3 gully and two made it but one climber was hesitant to attempt the…",
+      "link": "https://www.linkedin.com/posts/leonard-madrid_mountains-climbhigher-optoutside-activity-6966854513102127104-LPX4",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Today marks 15 years since I founded Hey. It is a memorable day, and I’ll celebrate it accordingly.Since I finished my degree more than 20 years…",
+      "link": "https://www.linkedin.com/posts/ver%C3%B2nica-fuerte-5034525_today-marks-15-years-since-i-founded-hey-activity-6959404634574598144-ZWiJ",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "\"How often do your non-employee shareholders talk to customers, solve a support problem or figure out the marketing? Never...The employees are doing…",
+      "link": "https://www.linkedin.com/posts/andyalsop_ep-124-employee-supremacy-w-andy-alsop-activity-6960768587867320320-dQKI",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "I am really excited to share that I have joined Apple as a Software EngineerDreams do come true\"From using Apple Products to Building Apple…",
+      "link": "https://www.linkedin.com/posts/nisthaagarwal_apple-softwareengineer-faang-activity-6960175085332631553-spRN",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Google is no longer the top search engine. Did any of you know this? It's TikTok. I'm in as much denial as you are, but I'll link some…",
+      "link": "https://www.linkedin.com/posts/chrisgpresents_seo-google-tiktok-activity-6945462721656086528-ukH0",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "The jobs that will take your career the farthest often have the most imperfect definitionsThe ones perfectly defined, also often have well-defined…",
+      "link": "https://www.linkedin.com/posts/jasonmlemkin_the-jobs-that-will-take-your-career-the-farthest-activity-6955943768558641152-M4dI",
+      "activity_status": "Liked by Kendall Gelner"
+    },
+    {
+      "title": "Please join me in welcoming Dale Drew to DISH Network. He is on the ground at Riverfront as our newest SVP leading security products and architecture…",
+      "link": "https://www.linkedin.com/posts/johnswieringa_wireless-5g-wearedish-activity-6955243113820917760-D7gx",
+      "activity_status": "Liked by Kendall Gelner"
+    }
+  ],
+  "social_networking_services": [
+    {
+      "service": "github",
+      "canonical_url": "github.com/kigi",
+      "internal_id": "None"
+    },
+    {
+      "service": "twitter",
+      "canonical_url": "twitter.com/kendalldevdiary",
+      "internal_id": "None"
+    },
+    {
+      "service": "facebook",
+      "canonical_url": "facebook.com/kigigelner",
+      "internal_id": "None"
+    },
+    {
+      "service": "gravatar",
+      "canonical_url": "gravatar.com/kgelner",
+      "internal_id": "None"
+    },
+    {
+      "service": "foursquare",
+      "canonical_url": "foursquare.com/user/4718978",
+      "internal_id": "None"
+    },
+    {
+      "service": "klout",
+      "canonical_url": "klout.com/kendalldevdiary",
+      "internal_id": "None"
+    }
+  ]
+}

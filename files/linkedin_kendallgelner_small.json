@@ -1,0 +1,87 @@
+{
+  "public_identifier": "kendallgelner",
+  "first_name": "Kendall",
+  "last_name": "Gelner",
+  "full_name": "Kendall Gelner",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Broomfield",
+  "state": "Colorado",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2018
+      },
+      "ends_at": "None",
+      "company": "Nami Ml",
+      "company_linkedin_profile_url": "None",
+      "title": "Ios Sdk Architect",
+      "description": "Involved in various aspects of client side SDK and application development.",
+      "location": "None",
+      "logo_url": "None"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2013
+      },
+      "company": "Pushio",
+      "company_linkedin_profile_url": "None",
+      "title": "Consulting Software Engineer",
+      "description": "* Develop and maintain IOS and OSX related code, for in-house applications and externally distributed frameworks/applications.\n* Manage iOS/OSX build process.\n* Second tier client development support.",
+      "location": "None",
+      "logo_url": "None"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1990
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1994
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelors, Bachelor of Arts",
+      "school": "Rice University",
+      "school_linkedin_profile_url": "linkedin.com/school/riceuniversity",
+      "description": "None",
+      "logo_url": "None",
+      "grade": "None",
+      "activities_and_societies": "None"
+    }
+  ],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2015
+      },
+      "title": "Volunteer Coordinator",
+      "cause": "Education",
+      "company": "AltConf",
+      "company_linkedin_profile_url": "None",
+      "description": "Volunteer coordinator for AltConf, a free technology conference covering Mac and iOS development.\n\nAn unpaid position, I recruited volunteers, managed schedules, and assisted with a variety of other duties for the conference like crowd planning, technical setup, and crisis planning.",
+      "logo_url": "None"
+    }
+  ],
+  "connections": 276
+}
