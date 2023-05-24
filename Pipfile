@@ -9,6 +9,7 @@ requests = "*"
 black = "*"
 tweepy = "*"
 google-api-python-client = "*"
+flask = "*"
 
 [dev-packages]
 

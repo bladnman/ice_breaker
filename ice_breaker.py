@@ -15,7 +15,7 @@ from tools.tools import get_profile_url_google
 from langchain.tools.file_management import ReadFileTool
 import json
 
-USE_LINKEDIN_FILE = True
+USE_LINKEDIN_FILE = False
 name = "Kendall Gelner"
 
 
@@ -43,7 +43,7 @@ def ice_break(name: str) -> tuple[PersonIntel, str]:
 
   # TWITTER
   twitter_username = twitter_lookup_agent(name=name)
-  tweets = scrape_user_tweets(username=twitter_username, num_tweets=10)
+  tweets = scrape_user_tweets(username=twitter_username, num_tweets=5)
 
   summary_template = """
         You are a highly enthusiastic match maker that wants to connect people.
