@@ -10,6 +10,9 @@ black = "*"
 tweepy = "*"
 google-api-python-client = "*"
 flask = "*"
+pinecone-client = "*"
+tiktoken = "*"
+pypdf = "*"
 
 [dev-packages]
 
